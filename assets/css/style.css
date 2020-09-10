@@ -113,10 +113,10 @@ p.lead {
 
 .btn-primary {
     border-radius: 3px;
-    background-image: -moz-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: -webkit-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: -ms-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
+    background-image: -moz-linear-gradient( 122deg, #1394c7 0%, #37b4fd 100%);
+    background-image: -webkit-linear-gradient( 122deg, #1394c7 0%, #37b4fd 100%);
+    background-image: -ms-linear-gradient( 122deg, #1394c7 0%, #37b4fd 100%);
+    background-image: linear-gradient( 122deg, #1394c7 0%, #37b4fd 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
     font-weight: 500;
     padding: 0.6rem 2rem;
@@ -129,7 +129,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
-    background-image: linear-gradient( 122deg, #fd378e 0%, #e54595 100%);
+    background-image: linear-gradient( 122deg, #37b4fd 0%, #1394c7 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
     color: #FFF;
 }
@@ -189,10 +189,10 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open  {
-    background-color: rgb(25, 96, 216);
-    background: -moz-linear-gradient(135deg, rgb(25, 96, 216) 0%, rgb(247, 42, 80) 100%);
-    background: -webkit-linear-gradient(135deg, rgb(25, 96, 216) 0%, rgb(247, 42, 80) 100%);
-    background: linear-gradient(135deg, rgb(25, 96, 216) 0%, rgb(247, 42, 80) 100%);
+    background-color: rgb(83, 114, 199);
+    background: -moz-linear-gradient(135deg, rgb(83, 114, 199) 0%, rgb(110, 110, 110) 100%);
+    background: -webkit-linear-gradient(135deg, rgb(83, 114, 199) 0%, rgb(110, 110, 110) 100%);
+    background: linear-gradient(135deg, rgb(83, 114, 199) 0%, rgb(110, 110, 110) 100%);
     -webkit-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
@@ -243,10 +243,10 @@ header {
 }
 
 .bg-gradient {
-    background-image: -moz-linear-gradient( 135deg, rgba(25, 96, 216, 0.8) 0%, rgba(247, 42, 80, 0.8) 100%);
-    background-image: -webkit-linear-gradient( 135deg, rgba(25, 96, 216, 0.8) 0%, rgba(247, 42, 80, 0.8) 100%);
-    background-image: -ms-linear-gradient( 135deg, rgba(25, 96, 216, 0.8) 0%, rgba(247, 42, 80, 0.8) 100%);
-    background-image: linear-gradient( 135deg, rgba(25, 96, 216, 0.8) 0%, rgba(247, 42, 80, 0.8) 100%);
+    background-image: -moz-linear-gradient( 135deg, rgba(83, 114, 199, 0.8) 0%, rgba(110, 110, 110, 0.8) 100%);
+    background-image: -webkit-linear-gradient( 135deg, rgba(83, 114, 199, 0.8) 0%, rgba(110, 110, 110, 0.8) 100%);
+    background-image: -ms-linear-gradient( 135deg, rgba(83, 114, 199, 0.8) 0%, rgba(110, 110, 110, 0.8) 100%);
+    background-image: linear-gradient( 135deg, rgba(83, 114, 199, 0.8) 0%, rgba(110, 110, 110, 0.8) 100%);
 }
 
 .tagline {
